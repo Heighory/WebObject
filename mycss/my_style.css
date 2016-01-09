@@ -1,4 +1,12 @@
 #aa{
-    color:#ff0000;
-    font-size: 16px;
+     color:#ff0000;
+     font-size: 16px;
+ }
+
+.abc{
+    color: #ff9900;
+}
+
+BODY{
+    color: blue;
 }
